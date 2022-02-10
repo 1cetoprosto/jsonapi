@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "soc": {
+  "description": "много много текста",
+  "series": {"description": "Школа Христа", "lessons": [{"number":1,"name":"Основание духовного образования","duration":2010,"url":"https://bogblagodat.pp.ua/wp-content/soc/soc_01_1.mp3"},{"name":2,"duration":2849,"url":"https://bogblagodat.pp.ua/wp-content/soc/"}]}}
 }
