@@ -39,12 +39,14 @@
                {
                   "number":1,
                   "name":"Урок №1. Основание духовного образования",
+                  "image":"https://bogblagodat.pp.ua/wp-content/uploads/Bert-Clendennen_150.jpg",
                   "duration":2010,
                   "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_01_1.mp3"
                },
                {
                   "number":2,
                   "name":"Урок №2. Дух истины",
+                  "image":"https://bogblagodat.pp.ua/wp-content/uploads/Bert-Clendennen_150.jpg",
                   "duration":2849,
                   "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_01_2.mp3"
                }
@@ -56,12 +58,14 @@
                {
                   "number":1,
                   "name":"Урок №1. Личность Иисуса",
+                  "image":"https://bogblagodat.pp.ua/wp-content/uploads/Bert-Clendennen_150.jpg",
                   "duration":2633,
                   "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_02_1.mp3"
                },
                {
                   "number":2,
                   "name":"Урок №2. Божие предвечное определение во Христе",
+                  "image":"https://bogblagodat.pp.ua/wp-content/uploads/Bert-Clendennen_150.jpg",
                   "duration":1707,
                   "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_02_2.mp3"
                }
