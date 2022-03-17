@@ -56,7 +56,42 @@
                   "image":"",
                   "duration":1132,
                   "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_01_3.mp3"
-               }
+               },
+               {
+                  "number":4,
+                  "name":"Урок №4. Дом Божий",
+                  "image":"https://bogblagodat.pp.ua/wp-content/uploads/Bert-Clendennen_150.jpg",
+                  "duration":1729,
+                  "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_01_4.mp3"
+               },
+               {
+                  "number":5,
+                  "name":"Урок №5. Свет жизни",
+                  "image":"https://bogblagodat.pp.ua/wp-content/uploads/Bert-Clendennen_150.jpg",
+                  "duration":1729,
+                  "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_01_5.mp3"
+               },
+               {
+                  "number":6,
+                  "name":"Урок №6. Отверстое небо",
+                  "image":"https://bogblagodat.pp.ua/wp-content/uploads/Bert-Clendennen_150.jpg",
+                  "duration":1729,
+                  "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_01_6.mp3"
+               },
+               {
+                  "number":7,
+                  "name":"Урок №7. Познание под помазанием",
+                  "image":"https://bogblagodat.pp.ua/wp-content/uploads/Bert-Clendennen_150.jpg",
+                  "duration":1729,
+                  "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_01_7.mp3"
+               },
+               {
+                  "number":8,
+                  "name":"Урок №8. Принцип семени",
+                  "image":"https://bogblagodat.pp.ua/wp-content/uploads/Bert-Clendennen_150.jpg",
+                  "duration":1729,
+                  "url":"https://bogblagodat.pp.ua/wp-content/soc/soc_01_8.mp3"
+               },
             ]
          },
          {
